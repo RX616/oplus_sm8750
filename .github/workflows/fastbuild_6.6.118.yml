@@ -5,7 +5,7 @@ env:
   ANDROID_VERSION: 'android16'
   KERNEL_VERSION: '6.6'
   SUB_VERSION: '128'
-  KERNEL_NAME: 'android16-8-g29d86c5fc9dd-abogki428889875-4k'
+  KERNEL_NAME: ''
   CCACHE_KEY: ccache-ecsv4-6.6.128
 
 on:
